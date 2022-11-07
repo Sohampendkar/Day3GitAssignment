@@ -1,3 +1,7 @@
-be zyada hua marr jayega
+<<<<<<< HEAD
+happy rehane se bp nhi badata
+=======
+be happy no BP
+>>>>>>> shriBranch
 push nhi pull karo
 pull no 
